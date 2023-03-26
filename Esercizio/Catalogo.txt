@@ -1,0 +1,135 @@
+
+Title: The Outsider
+Author: Stephen King
+Genre: Horror
+Number of pages: 560
+Year of publishing: 2018
+ISBN Code: 20000
+
+
+Title: Fantastic Beasts and Where to Find Them
+Author: J.K. Rowling
+Genre: Fantasy
+Number of pages: 128
+Year of publishing: 2001
+ISBN Code: 20001
+
+
+Title: The Tipping Point
+Author: Malcolm Gladwell
+Genre: SelfHelp
+Number of pages: 301
+Year of publishing: 2000
+ISBN Code: 20002
+
+
+Title: The Goldfinch
+Author: Donna Tartt
+Genre: Mystery
+Number of pages: 771
+Year of publishing: 2013
+ISBN Code: 20003
+
+
+Title: Between the World and Me
+Author: Ta-Nehisi Coates
+Genre: Biography
+Number of pages: 176
+Year of publishing: 2015
+ISBN Code: 20004
+
+
+Title: The Handmaid's Tale
+Author: Margaret Atwood
+Genre: Dystopian
+Number of pages: 311
+Year of publishing: 1985
+ISBN Code: 20005
+
+
+Title: Beloved
+Author: Toni Morrison
+Genre: LiteraryFiction
+Number of pages: 321
+Year of publishing: 1987
+ISBN Code: 20006
+
+
+Title: Sapiens: A Brief History of Humankind
+Author: Yuval Noah Harari
+Genre: History
+Number of pages: 443
+Year of publishing: 2011
+ISBN Code: 20007
+
+
+Title: Becoming
+Author: Michelle Obama
+Genre: Memoir
+Number of pages: 448
+Year of publishing: 2018
+ISBN Code: 20008
+
+
+Title: Wired
+Frequency of publishing: Monthly
+Number of pages: 112
+Year of publishing: 1993
+ISBN Code: 20100
+
+
+Title: The New Yorker
+Frequency of publishing: Weekly
+Number of pages: 96
+Year of publishing: 1925
+ISBN Code: 20101
+
+
+Title: Architectural Digest
+Frequency of publishing: Monthly
+Number of pages: 160
+Year of publishing: 1920
+ISBN Code: 20102
+
+
+Title: Sports Illustrated
+Frequency of publishing: Weekly
+Number of pages: 56
+Year of publishing: 1954
+ISBN Code: 20103
+
+
+Title: National Review
+Frequency of publishing: Monthly
+Number of pages: 72
+Year of publishing: 1955
+ISBN Code: 20104
+
+
+Title: Dwell
+Frequency of publishing: Biannual
+Number of pages: 88
+Year of publishing: 2000
+ISBN Code: 20105
+
+
+Title: The Economist
+Frequency of publishing: Weekly
+Number of pages: 88
+Year of publishing: 1843
+ISBN Code: 20106
+
+
+Title: Bon Appétit
+Frequency of publishing: Monthly
+Number of pages: 96
+Year of publishing: 1956
+ISBN Code: 20107
+
+
+Title: Rolling Stone
+Frequency of publishing: Weekly
+Number of pages: 72
+Year of publishing: 1967
+ISBN Code: 20108
+
